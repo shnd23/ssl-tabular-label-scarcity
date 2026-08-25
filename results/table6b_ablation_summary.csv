@@ -1,0 +1,4 @@
+variant,mean_delta_vs_full,wilcoxon_p_n4
+no_consistency,0.0031137052746139926,0.625
+no_group_mask,0.0003716374952115742,1.0
+mask_aware,0.0011077122486903845,0.875
